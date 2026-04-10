@@ -37,7 +37,7 @@ BIBFRAME ISBN		-->     has property / actual value    -->     	"9780425190449"  
 ```
 _Turtle:_
 ```
-bf:Isbn	      rdf:value	     "9780425190449"^^xsd:int
+bf:Isbn	      rdf:value	     "9780425190449"^^xsd:integer
 ```
 _N-Triples:_
 
